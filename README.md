@@ -320,7 +320,3 @@ npm run dev        # 개발 서버 시작 (http://localhost:5173)
 3. API 키가 없어도 대체 지도 뷰가 표시됩니다
 
 ```
-
-- **이메일**: 9radaaa@gmail.com
-- **GitHub**: [jackdiary](https://github.com/jackdiary)
-
